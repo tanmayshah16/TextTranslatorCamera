@@ -1,3 +1,3 @@
 # textcamera
 
-A Flutter application.
+My first mobile App developed using Flutter.
